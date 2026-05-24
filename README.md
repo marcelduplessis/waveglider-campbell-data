@@ -1,7 +1,7 @@
 # waveglider-campbell-data
 Reading in Campbell CR6 datalogger data from Polar Gliders Wave Gliders
 
-Before reading in the files into python, we need to convert the TOB3 ´.dat´ files into ´.csv´ files using the camp2ascii package
+Before reading in the files into python, we need to convert the TOB3 `.dat` files into ´.csv´ files using the camp2ascii package
 
 1. Navigate to the camp2ascii folder (downloaded from https://github.com/ansell/camp2ascii but note that I made small modifications to the Makefile to allow for conversion on a Mac)
 
