@@ -7,7 +7,7 @@ Datasets:
 - Gill 3D R3-50 anemometer (3D wind speeds & sonic temperature)
 - RBRCoda (sea temp, pressure, salinity, CODA temp and oxygen, Cyclops chlorophyll)
 
-Before reading in the files into python, I converted the TOB3 `.dat` files into `.csv` files using the camp2ascii package (downloaded from https://github.com/ansell/camp2ascii).
+Before I could read the files into Python, I converted the TOB3 `.dat` files into `.csv` files using the camp2ascii package (downloaded from https://github.com/ansell/camp2ascii).
 
 1. I navigated to the downloaded camp2ascii folder on my local machine (note I made small modifications to the Makefile to allow for conversion on a Mac)
 
